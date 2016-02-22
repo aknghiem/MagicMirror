@@ -49,9 +49,9 @@ jQuery(document).ready(function($) {
 
 	time.init();
 
-	calendar.init();
+	//calendar.init();
 
-	compliments.init();
+	//compliments.init();
 
 	weather.init();
 
